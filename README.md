@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama Abouzaid @oabouzaid
-- 👀 As a Data Scientist, I am interested in leveraging the power of data and unlocking its power using Machine Learning and AI, in order to solve complex world problems
-- 👨🏻‍💻 Currently working as a Data Scientist @ Expedia Group
+- 👀 As a Senior Data Scientist, I am interested in leveraging the power of data and unlocking its power using Machine Learning and AI, in order to solve complex world problems
+- 👨🏻‍💻 Currently working as a Senior Data Scientist @ Expedia Group
 - 📫 How to reach me: ouss.abouzaid@gmail.com
 
 <!---
